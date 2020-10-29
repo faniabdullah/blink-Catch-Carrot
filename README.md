@@ -8,7 +8,7 @@
 
 
 
-blink-Catch-Carrot is an AR game on Instagram Filter. Check the live [here]((https://www.instagram.com/ar/632005154382098/))
+blink-Catch-Carrot is an AR game on Instagram Filter. Check the live [here]((https://www.instagram.com/ar/632005154382098/)
 
 
 <div>
