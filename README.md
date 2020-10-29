@@ -1,10 +1,8 @@
 # blink-Catch-Carrot
 ![Author](https://img.shields.io/badge/made%20by-faniabdullah-blue)
 ![GitHub followers](https://img.shields.io/github/followers/faniabdullah?style=social)
-![GitHub watches](https://img.shields.io/github/stars/faniabdullah/premierLeague--lite?style=social)
-![npm](https://img.shields.io/npm/v/parcel-bundler)
-![NPM](https://img.shields.io/npm/l/parcel-bundler)
-![GitHub last commit](https://img.shields.io/github/last-commit/faniabdullah/premierLeague--lite)
+![GitHub watches](https://img.shields.io/github/stars/faniabdullah/blink-Catch-Carrot?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/faniabdullah/blink-Catch-Carrot)
 
 
 
