@@ -2,7 +2,4 @@
 
 https://www.instagram.com/ar/632005154382098/
 
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/ZTqjbbE.mp4" type="video/mp4">
-  <source src="https://i.imgur.com/ZTqjbbE.mp4" type="video/ogg">
-</video>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZTqjbbE" data-context="false" ><a href="//imgur.com/a/ZTqjbbE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
