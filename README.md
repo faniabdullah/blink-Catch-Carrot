@@ -13,6 +13,6 @@ blink-Catch-Carrot is an AR game on Instagram Filter. Check the live [here]((htt
 <img src="https://i.imgur.com/ZTqjbbE.png" alt="Home" height="650" style="margin-right: 16px">
 </div>
 
-## Built withs
+## Built with
 * [Spark Ar](https://sparkar.facebook.com/ar-studio/)
 
